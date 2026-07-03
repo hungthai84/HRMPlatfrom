@@ -1,0 +1,6 @@
+{
+  "name": "BambooHR HRM",
+  "description": "Hệ thống quản trị nhân sự chuyên nghiệp, đầy đủ tính năng: Hồ sơ nhân viên, Tuyển dụng, Onboarding, Đánh giá hiệu suất, Quản lý thời gian, Bảng lương và Báo cáo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
